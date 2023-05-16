@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConverterApp</string>
+    <string name="inpMsg">Enter here the amount in €:</string>
+    <string name="header">Unit Converter</string>
+</resources>
